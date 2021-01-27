@@ -1,2 +1,2 @@
->>print("matlab code");
->>print("matlab code new");
+>>fprintf("matlab code");
+>>fprintf("matlab code new");
